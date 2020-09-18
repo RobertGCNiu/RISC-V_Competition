@@ -5,3 +5,5 @@
 项目参与成员：Muhan Lin, Wenxin Fang, Weilin Zhang, Robert Niu
 
 <div align=center><img width="700" height="980" src= "poster.jpg"></div>
+<div align=center><img width="600" height="400" src="1080p2020918136471.gif"></div>
+<div align=center><img width="600" height="400" src="1080p2020918137402.gif"></div>
